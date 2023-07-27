@@ -1,4 +1,6 @@
-# ![Leaning Technologies](/profile/company-logotype.svg)
+<h1>
+  <a href="https://leaningtech.com"><img alt="Leaning Technologies" src="/profile/company-logotype.svg" width="300" /></a>
+</h1>
 
 #### Leaning Technologies makes compile-to-WebAssembly and compile-to-JavaScript solutions.
 
