@@ -1,3 +1,5 @@
+# ![Leaning Technologies](/profile/company-logotype.svg)
+
 #### Leaning Technologies makes compile-to-WebAssembly and compile-to-JavaScript solutions.
 
 [Join the Discord community](https://discord.gg/qBMHpK9Kqv)  
