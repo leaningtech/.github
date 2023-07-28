@@ -31,11 +31,11 @@ CheerpJ is a **JVM replacement** for the browser.
 
 ## [![CheerpX](/profile/cheerpx-logotype.svg?7)][webvm]
 
-CheerpX is a browser virtual machine that **runs x86 and Adobe Flash** binaries.
+CheerpX is an **x86 virtual machine** for the browser.
 
 - Execute x86 binaries from JavaScript 🤯
 - [Run Linux in your browser, client-side][webvm]
-- [See Flash content in modern browsers][cheerpx-flash]
+- CheerpX for Flash: [See Flash content in modern browsers][cheerpx-flash] by running Flash Player via CheerpX
 
 [Repository][cheerpj] / [Documentation](https://docs.leaningtech.com/cheerpx/) 
 
