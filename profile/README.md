@@ -15,7 +15,7 @@ Cheerp is an open-source **C/C++ compiler** that emits WebAssembly and JavaScrip
 - Emits best-optimised output without external tooling
 - Stays up-to-date with LLVM/Clang upstream
 
-[Repository][cheerp] / [Documentation](https://docs.leaningtech.com/cheerp/) 
+[Repository][cheerp] / [Documentation](https://labs.leaningtech.com/cheerp) 
 
 
 ## [![CheerpJ](/profile/cheerpj-logotype.svg?7)][cheerpj]
@@ -26,7 +26,7 @@ CheerpJ is a **JVM replacement** for the browser.
 - Supports Swing and 3D rendering
 - [Compile and run Java in the browser](https://javafiddle.leaningtech.com/)
 
-[Repository][cheerpj] / [Documentation](https://docs.leaningtech.com/cheerpj/) 
+[Repository][cheerpj] / [Documentation](https://labs.leaningtech.com/cheerpj) 
 
 
 ## [![CheerpX](/profile/cheerpx-logotype.svg?7)][webvm]
@@ -37,7 +37,7 @@ CheerpX is an **x86 virtual machine** for the browser.
 - [Run Linux in your browser, client-side][webvm]
 - CheerpX for Flash: [See Flash content in modern browsers][cheerpx-flash] by running Flash Player via CheerpX
 
-[Repository][cheerpj] / [Documentation](https://docs.leaningtech.com/cheerpx/) 
+[Repository][cheerpj] / [Documentation](https://labs.leaningtech.com/cheerpx) 
 
 
 ---
@@ -47,4 +47,4 @@ CheerpX is an **x86 virtual machine** for the browser.
 [cheerp]: https://github.com/leaningtech/cheerp-meta
 [cheerpj]: https://github.com/leaningtech/cheerpj-meta
 [webvm]: https://github.com/leaningtech/webvm
-[cheerpx-flash]: https://docs.leaningtech.com/cheerpx-for-flash/
+[cheerpx-flash]: https://labs.leaningtech.com/cheerpx/for-flash/
