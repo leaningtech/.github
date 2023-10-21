@@ -20,14 +20,16 @@ Cheerp is an open-source **C/C++ compiler** that emits WebAssembly and JavaScrip
 
 ## [![CheerpJ](/profile/cheerpj-logotype.svg?7)][cheerpj]
 
-CheerpJ is a **JVM replacement** for the browser.
+CheerpJ is a **Java Virtual Machine and runtime** for the browser, backed by WebAssembly.
 
+- 100% compatible with Java 8
+- Full runtime environment for applications, applets, libraries, and Java Web Start / JNLP applications
 - Run any Java library from JavaScript using only its JAR file
-- Supports Swing and 3D rendering
+- Java-JavaScript interoperability
+- Supports Swing and AWT
 - [Compile and run Java in the browser](https://javafiddle.leaningtech.com/)
 
-[Repository][cheerpj] / [Documentation](https://labs.leaningtech.com/cheerpj) 
-
+[Website](https://cheerpj.com) / [Repository][cheerpj] / [Documentation](https://labs.leaningtech.com/cheerpj3) 
 
 ## [![CheerpX](/profile/cheerpx-logotype.svg?7)][webvm]
 
