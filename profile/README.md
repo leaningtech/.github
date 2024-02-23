@@ -3,7 +3,7 @@
 ### We make your [C/C++][cheerp], [Java][cheerpj], [Flash][cheerpx-flash], and [x86 binaries][webvm] run in the browser.
 
 Interested in compilers, virtual machines, or WebAssembly? 👀 
-[Join our Discord server!](https://discord.gg/qBMHpK9Kqv)
+[Join our Discord server!](https://discord.leaningtech.com/?utm_medium=social&utm_source=GitHub&utm_campaign=github+org+readme)
 
 
 ## [![Cheerp](/profile/cheerp-logotype.svg?6)][cheerp]
