@@ -39,7 +39,7 @@ CheerpX is an **x86 virtual machine** for the browser.
 - [Run Linux in your browser, client-side][webvm]
 - CheerpX for Flash: [See Flash content in modern browsers][cheerpx-flash] by running Flash Player via CheerpX
 
-[Repository][cheerpj] / [Documentation](https://labs.leaningtech.com/cheerpx) 
+[Repository][cheerpx] / [Documentation](https://labs.leaningtech.com/cheerpx) 
 
 
 ---
@@ -48,5 +48,6 @@ CheerpX is an **x86 virtual machine** for the browser.
 
 [cheerp]: https://github.com/leaningtech/cheerp-meta
 [cheerpj]: https://github.com/leaningtech/cheerpj-meta
+[cheerpx]: https://github.com/leaningtech/cheerpx-meta
 [webvm]: https://github.com/leaningtech/webvm
 [cheerpx-flash]: https://labs.leaningtech.com/cheerpx/for-flash/
