@@ -1,6 +1,6 @@
 <a href="https://leaningtech.com"><img alt="Leaning Technologies" src="/profile/company-logotype.svg" width="240" /></a>
 
-### We make your [C/C++][cheerp], [Java][cheerpj], [Flash][cheerpx-flash], and [x86 binaries][webvm] run in the browser.
+### We make your [C/C++][cheerp], [Java][cheerpj], [Flash][cheerpx-flash], and [x86 binaries][cheerpx] run in the browser.
 
 Interested in compilers, virtual machines, or WebAssembly? 👀 
 [Join our Discord server!](https://discord.leaningtech.com/?utm_medium=social&utm_source=GitHub&utm_campaign=github+org+readme)
@@ -15,7 +15,7 @@ Cheerp is an open-source **C/C++ compiler** that emits WebAssembly and JavaScrip
 - Emits best-optimised output without external tooling
 - Stays up-to-date with LLVM/Clang upstream
 
-[Repository][cheerp] / [Documentation](https://labs.leaningtech.com/cheerp) 
+[Website][cheerp] / [Repository][cheerp-repo] / [Documentation][cheerp-docs]
 
 
 ## [![CheerpJ](/profile/cheerpj-logotype.svg?7)][cheerpj]
@@ -29,9 +29,9 @@ CheerpJ is a **Java Virtual Machine and runtime** for the browser, backed by Web
 - Supports Swing and AWT
 - [Compile and run Java in the browser](https://javafiddle.leaningtech.com/)
 
-[Website](https://cheerpj.com) / [Repository][cheerpj] / [Documentation](https://labs.leaningtech.com/cheerpj3) 
+[Website][cheerpj] / [Repository][cheerpj-repo] / [Documentation][cheerpj-docs]
 
-## [![CheerpX](/profile/cheerpx-logotype.svg?7)][webvm]
+## [![CheerpX](/profile/cheerpx-logotype.svg?7)][cheerpx]
 
 CheerpX is an **x86 virtual machine** for the browser.
 
@@ -39,15 +39,25 @@ CheerpX is an **x86 virtual machine** for the browser.
 - [Run Linux in your browser, client-side][webvm]
 - CheerpX for Flash: [See Flash content in modern browsers][cheerpx-flash] by running Flash Player via CheerpX
 
-[Repository][cheerpx] / [Documentation](https://labs.leaningtech.com/cheerpx) 
+[Website][cheerpx] / [Repository][cheerpx-repo] / [Documentation][cheerpx-docs]
 
 
 ---
 
 ###### [Careers](https://leaningtech.freshteam.com/jobs)
 
-[cheerp]: https://github.com/leaningtech/cheerp-meta
-[cheerpj]: https://github.com/leaningtech/cheerpj-meta
-[cheerpx]: https://github.com/leaningtech/cheerpx-meta
+[cheerp]: https://cheerp.io/
+[cheerpj]: https://cheerpj.com
+[cheerpx]: https://cheerpx.io/
+
+[cheerp-docs]: https://cheerp.io/docs/overview
+[cheerpj-docs]: https://cheerpj.com/docs/overview.html
+[cheerpx-docs]: https://cheerpx.io/docs/overview
+
+[cheerp-repo]:  https://github.com/leaningtech/cheerp-meta
+[cheerpj-repo]: https://github.com/leaningtech/cheerpj-meta
+[cheerpx-repo]: https://github.com/leaningtech/cheerpx-meta
+
+
 [webvm]: https://github.com/leaningtech/webvm
 [cheerpx-flash]: https://labs.leaningtech.com/cheerpx/for-flash/
