@@ -23,7 +23,7 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 
 
 ## [![BrowserPod](/profile/browserpod-logotype.svg?5)][browserpod]
-[Website][browserpod] / [Repository][browserpod-repo]
+[Website][browserpod] / [Repository][browserpod-repo] / [Documentation][browserpod-docs]
 
 **Full-Stack Development Environments in the Browser**
 
@@ -98,3 +98,4 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 
 [browserpod]: https://browserpod.io/
 [browserpod-repo]:https://github.com/leaningtech/browserpod-meta
+[browserpod-docs]:https://browserpod.io/docs/
