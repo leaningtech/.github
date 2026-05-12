@@ -1,17 +1,53 @@
-<a href="https://leaningtech.com"><img alt="Leaning Technologies" src="/profile/company-logotype.svg" width="240" /></a>
+<div align="center">
 
-### We bring native software to the web
-Run your [C/C++][cheerp], [Java][cheerpj], [Flash][cheerpx-flash], and [x86 binaries][cheerpx] directly in the browser. No servers. Just WebAssembly.
+<a href="https://leaningtech.com">
+  <img alt="Leaning Technologies" src="/profile/company-logotype.svg" width="280" />
+</a>
 
-Interested in any of our technologies, or generally in compilers, virtual machines, or WebAssembly? 
+### Native runtimes for the browser
+
+Browser runtimes for [AI coding CLIs][browsercode], [Node.js][browserpod], [Python][browserpod][C/C++][cheerp], [Java][cheerpj],  [Flash][cheerpx-flash], and [x86 binaries][cheerpx] via WebAssembly.
+
+Interested in any of our technologies, or generally in compilers, virtual machines, or WebAssembly?
+
 **👉 Join our [Discord!](https://discord.leaningtech.com/?utm_medium=social&utm_source=GitHub&utm_campaign=github+org+readme)**
+
+</div>
+
+<br />
 
 ---
 
-## [![WebVM](/profile/webvm-logotype.svg?3)][webvm]
-[Live demo][webvm] / [Repository][webvm-repo]
+<br />
 
-**A server-less virtual Linux environment running fully client-side**
+<a href="https://browsercode.io">
+  <img alt="BrowserCode" src="/profile/browsercode.svg?3" height="60" />
+</a>
+
+**Run AI coding CLIs in the browser, client-side**
+
+[ Live demo ][browsercode] · [ Repository ][browsercode-repo]
+
+- Runs AI coding CLIs in the browser at native speed
+- Boots Claude Code instantly, with Gemini CLI available too
+- Codex and OpenCode support coming soon
+- Includes command line tools like bash and git
+- Free and open source
+- Embed coding CLIs in your web development projects
+
+<br />
+
+---
+
+<br />
+
+<a href="https://webvm.io/">
+  <img alt="WebVM" src="/profile/webvm-logotype.svg?3" height="60" />
+</a>
+
+**A serverless Linux environment running in the browser, client-side**
+
+[ Live demo ][webvm] · [ Repository ][webvm-repo]
 
 - Built on [CheerpX](#cheerpx), our x86 virtualization engine
 - Run a full Linux userspace, terminal and tools included
@@ -20,12 +56,19 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 - Claude Computer Use support
 - A complete Linux desktop environment in [WebVM 2.0](https://webvm.io/alpine.html)
 
+<br />
 
+---
 
-## [![BrowserPod](/profile/browserpod-logotype.svg?5)][browserpod]
-[Website][browserpod] / [Repository][browserpod-repo] / [Documentation][browserpod-docs]
+<br />
 
-**Full-Stack Development Environments in the Browser**
+<a href="https://browserpod.io/">
+  <img alt="BrowserPod" src="/profile/browserpod-logotype.svg?5" height="60" />
+</a>
+
+**Sandboxed runtimes for browser-based execution**
+
+[ Website ][browserpod] · [ Repository ][browserpod-repo] · [ Documentation ][browserpod-docs]
 
 - Entirely client-side: instant startup
 - Language support: Node.js available. Python and Ruby support planned.
@@ -35,24 +78,38 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 - Persistent filesystem stored locally in the browser
 - Ideal for interactive tutorials, quick experiments, and shareable development environments
 
+<br />
 
+---
 
+<br />
 
-## [![Cheerp](/profile/cheerp-logotype.svg?6)][cheerp]
-[Website][cheerp] / [Repository][cheerp-repo] / [Documentation][cheerp-docs]
+<a href="https://cheerp.io/">
+  <img alt="Cheerp" src="/profile/cheerp-logotype.svg?6" height="60" />
+</a>
 
 **An open-source C/C++ compiler that emits WebAssembly and JavaScript**
+
+[ Website ][cheerp] · [ Repository ][cheerp-repo] · [ Documentation ][cheerp-docs]
 
 - Port C/C++ libraries to the browser for use in JavaScript
 - Write your web application in high-performance C++
 - Emits best-optimised output without external tooling
 - Stays up-to-date with LLVM/Clang upstream
 
+<br />
 
-## [![CheerpJ](/profile/cheerpj-logotype.svg?7)][cheerpj]
-[Website][cheerpj] / [Repository][cheerpj-repo] / [Documentation][cheerpj-docs]
+---
+
+<br />
+
+<a href="https://cheerpj.com">
+  <img alt="CheerpJ" src="/profile/cheerpj-logotype.svg?7" height="60" />
+</a>
 
 **A Java Virtual Machine and runtime for the browser, backed by WebAssembly**
+
+[ Website ][cheerpj] · [ Repository ][cheerpj-repo] · [ Documentation ][cheerpj-docs]
 
 - 100% compatible with Java 8
 - Full runtime environment for applications, applets, libraries, and Java Web Start / JNLP applications
@@ -61,27 +118,42 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 - Swing and AWT Support
 - [Compile and run Java in the browser](https://javafiddle.leaningtech.com/)
 
+<br />
 
-## [![CheerpX](/profile/cheerpx-logotype.svg?7)][cheerpx]
-[Website][cheerpx] / [Repository][cheerpx-repo] / [Documentation][cheerpx-docs]
+---
+
+<br />
+
+<a id="cheerpx"></a>
+<a href="https://cheerpx.io/">
+  <img alt="CheerpX" src="/profile/cheerpx-logotype.svg?7" height="60" />
+</a>
 
 **A WebAssembly-powered x86 virtual machine for the browser**
+
+[ Website ][cheerpx] · [ Repository ][cheerpx-repo] · [ Documentation ][cheerpx-docs]
 
 - Execute unmodified x86 binaries from JavaScript 🤯
 - Safe sandboxed execution fully client-side
 - Includes a x86-to-WebAssembly JIT compiler, a virtual block-based file system, and a Linux syscall emulator
-- The engine behind [***WebVM***][webvm] 
+- The engine behind [***WebVM***][webvm]
 - CheerpX for Flash: [See Flash content in modern browsers][cheerpx-flash] by running Flash Player via CheerpX
 
-
+<br />
 
 ---
 
-### [Careers](https://leaningtech.freshteam.com/jobs)
+<div align="center">
+
+### [Careers →](https://leaningtech.freshteam.com/jobs)
+
+</div>
+
+<!-- Reference links -->
 
 [cheerp]: https://cheerp.io/
 [cheerp-docs]: https://cheerp.io/docs/overview
-[cheerp-repo]:  https://github.com/leaningtech/cheerp-meta
+[cheerp-repo]: https://github.com/leaningtech/cheerp-meta
 
 [cheerpj]: https://cheerpj.com
 [cheerpj-docs]: https://cheerpj.com/docs/overview.html
@@ -92,10 +164,12 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 [cheerpx-repo]: https://github.com/leaningtech/cheerpx-meta
 [cheerpx-flash]: https://labs.leaningtech.com/cheerpx/for-flash/
 
-
 [webvm]: https://webvm.io/
 [webvm-repo]: https://github.com/leaningtech/webvm
 
 [browserpod]: https://browserpod.io/
-[browserpod-repo]:https://github.com/leaningtech/browserpod-meta
-[browserpod-docs]:https://browserpod.io/docs/
+[browserpod-repo]: https://github.com/leaningtech/browserpod-meta
+[browserpod-docs]: https://browserpod.io/docs/
+
+[browsercode]: https://browsercode.io
+[browsercode-repo]: https://github.com/leaningtech/browsercode
