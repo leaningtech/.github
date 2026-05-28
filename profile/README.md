@@ -6,7 +6,7 @@
 
 ### Native runtimes for the browser
 
-Browser runtimes for [AI coding CLIs][browsercode], [Node.js][browserpod], [Python][browserpod][C/C++][cheerp], [Java][cheerpj],  [Flash][cheerpx-flash], and [x86 binaries][cheerpx] via WebAssembly.
+Browser runtimes for [AI coding CLIs][browsercode], [Node.js][browserpod], [Python][browserpod], [C/C++][cheerp], [Java][cheerpj], [Flash][cheerpx-flash], and [x86 binaries][cheerpx] via WebAssembly.
 
 Interested in any of our technologies, or generally in compilers, virtual machines, or WebAssembly?
 
@@ -28,12 +28,10 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 
 [ Live demo ][browsercode] · [ Repository ][browsercode-repo]
 
-- Runs AI coding CLIs in the browser at native speed
-- Boots Claude Code instantly, with Gemini CLI available too
-- Codex and OpenCode support coming soon
+- Supports Claude Code and Gemini CLI, with Codex and OpenCode coming soon
+- Runs at native speed with instant startup
 - Includes command line tools like bash and git
 - Free and open source
-- Embed coding CLIs in your web development projects
 
 <br />
 
@@ -142,12 +140,6 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 <br />
 
 ---
-
-<div align="center">
-
-### [Careers →](https://leaningtech.freshteam.com/jobs)
-
-</div>
 
 <!-- Reference links -->
 
