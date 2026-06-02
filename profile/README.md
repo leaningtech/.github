@@ -20,6 +20,29 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 
 <br />
 
+<a href="https://browserpod.io/">
+  <img alt="BrowserPod" src="/profile/browserpod-logotype.svg?5" height="60" />
+</a>
+
+**Sandboxed runtimes for browser-based execution**
+
+[ Website ][browserpod] · [ Repository ][browserpod-repo] · [ Documentation ][browserpod-docs]
+
+- Entirely client-side: instant startup
+- Language support: Node.js available. Python and Ruby support planned.
+- Supports inbound and outbound networking
+- Expose HTTP endpoints publicly using Portals
+- Run multiple processes or services in parallel with true concurrency
+- Embed coding CLIs in your web project
+- Persistent filesystem stored locally in the browser
+- Ideal for interactive tutorials, quick experiments, and shareable development environments
+
+<br />
+
+---
+
+<br />
+
 <a href="https://browsercode.io">
   <img alt="BrowserCode" src="/profile/browsercode.svg?3" height="60" />
 </a>
@@ -60,40 +83,19 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 
 <br />
 
-<a href="https://browserpod.io/">
-  <img alt="BrowserPod" src="/profile/browserpod-logotype.svg?5" height="60" />
+<a id="cheerpx" href="https://cheerpx.io/">
+  <img alt="CheerpX" src="/profile/cheerpx-logotype.svg?7" height="60" />
 </a>
 
-**Sandboxed runtimes for browser-based execution**
+**A WebAssembly-powered x86 virtual machine for the browser**
 
-[ Website ][browserpod] · [ Repository ][browserpod-repo] · [ Documentation ][browserpod-docs]
+[ Website ][cheerpx] · [ Repository ][cheerpx-repo] · [ Documentation ][cheerpx-docs]
 
-- Entirely client-side: instant startup
-- Language support: Node.js available. Python and Ruby support planned.
-- Supports inbound and outbound networking
-- Expose HTTP endpoints publicly using Portals
-- Run multiple processes or services in parallel with true concurrency
-- Persistent filesystem stored locally in the browser
-- Ideal for interactive tutorials, quick experiments, and shareable development environments
-
-<br />
-
----
-
-<br />
-
-<a href="https://cheerp.io/">
-  <img alt="Cheerp" src="/profile/cheerp-logotype.svg?6" height="60" />
-</a>
-
-**An open-source C/C++ compiler that emits WebAssembly and JavaScript**
-
-[ Website ][cheerp] · [ Repository ][cheerp-repo] · [ Documentation ][cheerp-docs]
-
-- Port C/C++ libraries to the browser for use in JavaScript
-- Write your web application in high-performance C++
-- Emits best-optimised output without external tooling
-- Stays up-to-date with LLVM/Clang upstream
+- Execute unmodified x86 binaries from JavaScript 🤯
+- Safe sandboxed execution fully client-side
+- Includes a x86-to-WebAssembly JIT compiler, a virtual block-based file system, and a Linux syscall emulator
+- The engine behind [***WebVM***][webvm]
+- CheerpX for Flash: [See Flash content in modern browsers][cheerpx-flash] by running Flash Player via CheerpX
 
 <br />
 
@@ -122,20 +124,18 @@ Interested in any of our technologies, or generally in compilers, virtual machin
 
 <br />
 
-<a id="cheerpx"></a>
-<a href="https://cheerpx.io/">
-  <img alt="CheerpX" src="/profile/cheerpx-logotype.svg?7" height="60" />
+<a href="https://cheerp.io/">
+  <img alt="Cheerp" src="/profile/cheerp-logotype.svg?6" height="60" />
 </a>
 
-**A WebAssembly-powered x86 virtual machine for the browser**
+**An open-source C/C++ compiler that emits WebAssembly and JavaScript**
 
-[ Website ][cheerpx] · [ Repository ][cheerpx-repo] · [ Documentation ][cheerpx-docs]
+[ Website ][cheerp] · [ Repository ][cheerp-repo] · [ Documentation ][cheerp-docs]
 
-- Execute unmodified x86 binaries from JavaScript 🤯
-- Safe sandboxed execution fully client-side
-- Includes a x86-to-WebAssembly JIT compiler, a virtual block-based file system, and a Linux syscall emulator
-- The engine behind [***WebVM***][webvm]
-- CheerpX for Flash: [See Flash content in modern browsers][cheerpx-flash] by running Flash Player via CheerpX
+- Port C/C++ libraries to the browser for use in JavaScript
+- Write your web application in high-performance C++
+- Emits best-optimised output without external tooling
+- Stays up-to-date with LLVM/Clang upstream
 
 <br />
 
