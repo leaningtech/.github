@@ -2,12 +2,9 @@
  	 viewBox="0 0 640.11536 127.84721"
 	 height="30">
 	<style>
-		@media (prefers-color-scheme: dark) {
+		
 			.logo { fill: white; }
-		}
-		@media (prefers-color-scheme: light) {
-			.logo { fill: black; }
-		}
+		
 	</style>
 	<g transform="translate(-4.6655759,-54.147434)">
     <path

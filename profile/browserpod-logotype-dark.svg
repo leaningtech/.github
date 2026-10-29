@@ -4,12 +4,7 @@
 	height="42">
 	<defs>
 		<style>
-			.logo { fill: #63D38B; }
-			.text { fill: #000000ff; }
-			@media (prefers-color-scheme: dark) {
-				.logo { fill: #40FFC8; }
-				.text { fill: #ffffff; }
-			}
+			.logo, .text { fill: #ffffff; }
 		</style>
 	</defs>
 	<path
