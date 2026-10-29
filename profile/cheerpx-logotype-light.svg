@@ -2,9 +2,7 @@
 	<defs>
 		<style>
 			.cls-1{fill:#4b647f;}.cls-2{fill:#231f20;}.cls-3{fill:#6386a5;}.cls-4{fill:#e2e2e2;}.cls-5{fill:#fff;}
-			@media (prefers-color-scheme: dark) {
-				.cls-2 { fill: #ffffff; }
-			}
+			
 		</style>
 	</defs>
 	<g id="Layer_2" data-name="Layer 2">
