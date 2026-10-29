@@ -32,15 +32,16 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 
 **Run AI code securely on any device**
 
-[ Website ][browserpod] · [ Repository ][browserpod-repo] · [ Documentation ][browserpod-docs]
+[ Website ][browserpod] · [ Repository ][browserpod-repo] · [ Documentation ][browserpod-docs] · [ Changelog ][browserpod-changelog]
 
 - Sandboxed server runtimes that run entirely client-side, on a Linux-compatible kernel in WebAssembly
 - Node.js and Rust, with Python in preview. Ruby and Go are in development
-- Bash, git and core Linux utilities included, plus npm for Node.js
-- Runs the frameworks and build tools you already use, such as React, Next.js, Express and Vite
-- Expose a running dev server at a public URL with Portals
-- Run multiple processes and threads concurrently
-- Persistent or ephemeral filesystem, stored locally in the browser
+- Ships bash, git, curl, ripgrep, fd and core Linux utilities, plus npm, npx and pnpm for Node.js
+- Runs the frameworks and build tools you already use, such as Next.js 16, Vite 8, React, Nuxt and Express
+- Real Linux process behaviour: pseudo-terminals, signals, `/dev` and `/proc`, and scripts that run as executables
+- Run multiple processes and threads concurrently, with memory that grows only as programs need it
+- Expose a running dev server at a public URL with Portals, WebSockets included
+- Persistent or ephemeral filesystem on OPFS or IndexedDB, with multiple independent virtual disks
 - Built for AI agent sandboxes, web IDEs, interactive tutorials and runnable documentation
 
 <br />
@@ -193,6 +194,7 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 [browserpod]: https://browserpod.io/
 [browserpod-repo]: https://github.com/leaningtech/browserpod-meta
 [browserpod-docs]: https://browserpod.io/docs/
+[browserpod-changelog]: https://browserpod.io/docs/more/changelog
 
 [browsercode]: https://browsercode.io
 [browsercode-repo]: https://github.com/leaningtech/browsercode
