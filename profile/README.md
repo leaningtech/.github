@@ -1,11 +1,7 @@
 <div align="center">
 
-<a href="https://leaningtech.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/profile/company-logotype-dark.svg" />
-    <img alt="Leaning Technologies" src="/profile/company-logotype-light.svg" width="280" />
-  </picture>
-</a>
+<a href="https://leaningtech.com#gh-light-mode-only"><img alt="Leaning Technologies" src="/profile/company-logotype-light.svg" width="280" /></a>
+<a href="https://leaningtech.com#gh-dark-mode-only"><img alt="Leaning Technologies" src="/profile/company-logotype-dark.svg" width="280" /></a>
 
 ### Native runtimes for the browser
 
@@ -23,12 +19,8 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 
 <br />
 
-<a href="https://browserpod.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/profile/browserpod-logotype-dark.svg" />
-    <img alt="BrowserPod" src="/profile/browserpod-logotype-light.svg" height="60" />
-  </picture>
-</a>
+<a href="https://browserpod.io/#gh-light-mode-only"><img alt="BrowserPod" src="/profile/browserpod-logotype-light.svg" height="60" /></a>
+<a href="https://browserpod.io/#gh-dark-mode-only"><img alt="BrowserPod" src="/profile/browserpod-logotype-dark.svg" height="60" /></a>
 
 **Run AI code securely on any device**
 
@@ -50,12 +42,8 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 
 <br />
 
-<a href="https://browsercode.io">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/profile/browsercode-logotype-dark.svg" />
-    <img alt="BrowserCode" src="/profile/browsercode-logotype-light.svg" height="60" />
-  </picture>
-</a>
+<a href="https://browsercode.io#gh-light-mode-only"><img alt="BrowserCode" src="/profile/browsercode-logotype-light.svg" height="60" /></a>
+<a href="https://browsercode.io#gh-dark-mode-only"><img alt="BrowserCode" src="/profile/browsercode-logotype-dark.svg" height="60" /></a>
 
 **A browser-based coding playground, fully client-side**
 
@@ -75,12 +63,8 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 
 <br />
 
-<a href="https://webvm.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/profile/webvm-logotype-dark.svg" />
-    <img alt="WebVM" src="/profile/webvm-logotype-light.svg" height="60" />
-  </picture>
-</a>
+<a href="https://webvm.io/#gh-light-mode-only"><img alt="WebVM" src="/profile/webvm-logotype-light.svg" height="60" /></a>
+<a href="https://webvm.io/#gh-dark-mode-only"><img alt="WebVM" src="/profile/webvm-logotype-dark.svg" height="60" /></a>
 
 **A Linux virtual machine that runs entirely in the browser**
 
@@ -99,12 +83,9 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 
 <br />
 
-<a id="cheerpx" href="https://cheerpx.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/profile/cheerpx-logotype-dark.svg" />
-    <img alt="CheerpX" src="/profile/cheerpx-logotype-light.svg" height="60" />
-  </picture>
-</a>
+<a id="cheerpx"></a>
+<a href="https://cheerpx.io/#gh-light-mode-only"><img alt="CheerpX" src="/profile/cheerpx-logotype-light.svg" height="60" /></a>
+<a href="https://cheerpx.io/#gh-dark-mode-only"><img alt="CheerpX" src="/profile/cheerpx-logotype-dark.svg" height="60" /></a>
 
 **Run virtual machines in your web apps**
 
@@ -124,12 +105,8 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 
 <br />
 
-<a href="https://cheerpj.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/profile/cheerpj-logotype-dark.svg" />
-    <img alt="CheerpJ" src="/profile/cheerpj-logotype-light.svg" height="60" />
-  </picture>
-</a>
+<a href="https://cheerpj.com#gh-light-mode-only"><img alt="CheerpJ" src="/profile/cheerpj-logotype-light.svg" height="60" /></a>
+<a href="https://cheerpj.com#gh-dark-mode-only"><img alt="CheerpJ" src="/profile/cheerpj-logotype-dark.svg" height="60" /></a>
 
 **Real Java in the browser**
 
@@ -151,12 +128,8 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 
 <br />
 
-<a href="https://cheerp.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/profile/cheerp-logotype-dark.svg" />
-    <img alt="Cheerp" src="/profile/cheerp-logotype-light.svg" height="60" />
-  </picture>
-</a>
+<a href="https://cheerp.io/#gh-light-mode-only"><img alt="Cheerp" src="/profile/cheerp-logotype-light.svg" height="60" /></a>
+<a href="https://cheerp.io/#gh-dark-mode-only"><img alt="Cheerp" src="/profile/cheerp-logotype-dark.svg" height="60" /></a>
 
 **An enterprise-grade, open-source C/C++ compiler for WebAssembly and JavaScript**
 
