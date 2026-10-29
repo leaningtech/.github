@@ -113,7 +113,7 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 [ Website ][cheerpj] · [ Repository ][cheerpj-repo] · [ Documentation ][cheerpj-docs] · [ Playground ][cheerpj-playground]
 
 - A full OpenJDK distribution in WebAssembly, with a JVM that runs your bytecode unchanged
-- Supports Java 8, 11 and 17
+- Supports Java 8, 11, 17 and 21, with Java 25 in preview
 - Run existing applications, applets, Java Web Start apps, and Oracle Forms and E-Business Suite clients, from unmodified JARs
 - Integrate Java libraries in JavaScript, fully client-side
 - Swing and AWT interfaces drawn with HTML elements and canvases
