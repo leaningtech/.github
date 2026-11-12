@@ -22,19 +22,21 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 <a href="https://browserpod.io/#gh-light-mode-only"><img alt="BrowserPod" src="/profile/browserpod-logotype-light.svg" height="60" /></a>
 <a href="https://browserpod.io/#gh-dark-mode-only"><img alt="BrowserPod" src="/profile/browserpod-logotype-dark.svg" height="60" /></a>
 
-**Run AI code securely on any device**
+**The microVM that runs in the browser**
 
 [ Website ][browserpod] · [ Repository ][browserpod-repo] · [ Documentation ][browserpod-docs] · [ Changelog ][browserpod-changelog]
 
-- Sandboxed server runtimes that run entirely client-side, on a Linux-compatible kernel in WebAssembly
-- Node.js and Rust, with Python in preview. Ruby and Go are in development
+- A Linux-like kernel in WebAssembly, isolated by the browser's sandbox, with near-instant start and zero latency: code runs on the user's device
+- Free for any use from 4.0, with no account or API key. [BrowserPod Edge][browserpod-pricing] adds Portals, TCP and controlled networking when a pod needs the internet
+- Node.js and Rust, with Python in preview and Go coming soon
 - Ships bash, git, curl, ripgrep, fd and core Linux utilities, plus npm, npx and pnpm for Node.js
-- Runs the frameworks and build tools you already use, such as Next.js 16, Vite 8, React, Nuxt and Express
-- Real Linux process behaviour: pseudo-terminals, signals, `/dev` and `/proc`, and scripts that run as executables
+- Runs the frameworks and build tools you already use, such as Next.js 16, Vite 8, React, Nuxt and Express, with Wasm builds of native dependencies
+- Linux process behaviour: pseudo-terminals, signals, `/dev` and `/proc`, and scripts that run as executables
 - Run multiple processes and threads concurrently, with memory that grows only as programs need it
-- Expose a running dev server at a public URL with Portals, WebSockets included
+- Expose a running dev server at a public URL with Portals, WebSockets included, through BrowserPod Edge
 - Persistent or ephemeral filesystem on OPFS or IndexedDB, with multiple independent virtual disks
 - Built for AI agent sandboxes, web IDEs, interactive tutorials and runnable documentation
+- An [agent skill][browserpod-skill] for coding agents adding BrowserPod to a page
 
 <br />
 
@@ -54,7 +56,7 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 - File tree, code editor, terminal and live preview, with bash and git
 - Share what you build at a public URL with Portals
 - Embed it in your docs, tutorials or landing pages
-- Built on [BrowserPod][browserpod], at near-native speed with instant startup
+- Built on [BrowserPod][browserpod], with near-instant startup
 - Free and open source
 
 <br />
@@ -168,6 +170,8 @@ Interested in our technologies, or in compilers, virtual machines and WebAssembl
 [browserpod-repo]: https://github.com/leaningtech/browserpod-meta
 [browserpod-docs]: https://browserpod.io/docs/
 [browserpod-changelog]: https://browserpod.io/docs/more/changelog
+[browserpod-pricing]: https://browserpod.io/pricing
+[browserpod-skill]: https://browserpod.io/skills/browserpod/SKILL.md
 
 [browsercode]: https://browsercode.io
 [browsercode-repo]: https://github.com/leaningtech/browsercode
